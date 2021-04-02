@@ -144,6 +144,7 @@ A curated list of awesome reversing resources
 * [fREedom](https://github.com/cseagle/fREedom)
 * [Retdec](https://retdec.com/)
 * [Snowman](https://derevenets.com/)
+* [Cutter](https://github.com/rizinorg/cutter)
 
 ## Binary Analysis
 
